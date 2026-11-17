@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Claude Code dev config
+.claude/
+
+# Hidden plot files (for Claude only; never published)
+DO-NOT-OPEN-*
+
+# Local tools and review output
+tools/.femc-facebox
+tools/__pycache__/
+portrait-review/
